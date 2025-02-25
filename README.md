@@ -142,13 +142,13 @@ project-folder/
 ![Home Page](https://github.com/HUTAGIKARNIKHIL/E-Commerce-SpringBoot-React/blob/main/Ecommerce/images/Home.png)
 
 ### Add Product Page
-![Add Product](images/AddProduct.png)
+![Add Product](https://github.com/HUTAGIKARNIKHIL/E-Commerce-SpringBoot-React/blob/main/Ecommerce/images/AddProduct.png)
 
 ### Cart List Page
 ![Cart List](https://github.com/HUTAGIKARNIKHIL/E-Commerce-SpringBoot-React/blob/main/Ecommerce/images/CartList.png)
 
 ### Update Product Page
-![Update Product](https://github.com/HUTAGIKARNIKHIL/E-Commerce-SpringBoot-React/blob/main/Ecommerce/images/Home.png)
+![Update Product](https://github.com/HUTAGIKARNIKHIL/E-Commerce-SpringBoot-React/blob/main/Ecommerce/images/UpdateProduct.png)
 
 ---
 ## Author
