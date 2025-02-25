@@ -136,6 +136,21 @@ project-folder/
 - Maven
 
 ---
+## Screenshots
+
+### Home Page
+![Home Page](images/Home.png)
+
+### Add Product Page
+![Add Product](images/AddProduct.png)
+
+### Cart List Page
+![Cart List](images/CartList.png)
+
+### Update Product Page
+![Update Product](images/UpdateProduct.png)
+
+---
 ## Author
 Developed by [Nikhil Hutagikar]
 
