@@ -139,7 +139,7 @@ project-folder/
 ## Screenshots
 
 ### Home Page
-![Home Page](images/Home.png)
+![Home Page](https://github.com/HUTAGIKARNIKHIL/E-Commerce-SpringBoot-React/blob/main/Ecommerce/images/Home.png)
 
 ### Add Product Page
 ![Add Product](images/AddProduct.png)
