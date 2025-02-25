@@ -148,7 +148,7 @@ project-folder/
 ![Cart List](images/CartList.png)
 
 ### Update Product Page
-![Update Product](images/UpdateProduct.png)
+![Update Product](https://github.com/HUTAGIKARNIKHIL/E-Commerce-SpringBoot-React/blob/main/Ecommerce/images/Home.png)
 
 ---
 ## Author
