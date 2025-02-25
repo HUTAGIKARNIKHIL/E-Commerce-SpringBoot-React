@@ -65,7 +65,9 @@ cd <project-folder>
    ```sh
    npm install
    ```
-3. Start the React application:
+3. Replace Public and Src
+   
+4. Start the React application:
    ```sh
    npm start
    ```
@@ -101,7 +103,6 @@ project-folder/
 │   ├── App.css
 │── public/
 │── package.json
-│── README.md
 ```
 
 ---
